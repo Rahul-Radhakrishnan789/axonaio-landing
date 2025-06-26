@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Menu, X, LogIn, Gamepad2, Shell } from "lucide-react";
-import { Button } from "../ui/button";
+
 
 interface NavLinkProps {
   href: string;

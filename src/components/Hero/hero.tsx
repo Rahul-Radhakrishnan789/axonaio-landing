@@ -1,12 +1,9 @@
 import { Button } from "../ui/button";
 import { Download } from "lucide-react";
-import { useState,useEffect } from "react";
+
 
 export const HeroSection = () => {
     
-
-
-
 
   return (
     <div className="relative flex justify-center items-center min-h-[520px]">
